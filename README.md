@@ -2,7 +2,7 @@
 
 
 
-Provider 3.1.0
+Provider 3.1.0 https://pub.dev/packages/provider
 
 A mixture between dependency injection (DI) and state management
 
